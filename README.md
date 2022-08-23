@@ -18,8 +18,13 @@ Thanks
 
 ## EXAMPLE C++ EDIT:
 >HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+>
 >int main() {
+>
 >	SetConsoleCP(2588);
+>	
 >	SetConsoleOutputCP(2588);
+>	
 >	std::cout << (char)223;
+>	
 >	}
