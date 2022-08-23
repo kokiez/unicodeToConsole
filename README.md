@@ -1,6 +1,9 @@
 # unicodeToConsole
 Converting unicode character to a c++ code e.g cout &lt;&lt; char(219).
 
+![My Image](ascii2cpp.png)
+
+
 ## You can find ASCII character codes from this site.
 https://theasciicode.com.ar/extended-ascii-code/box-drawings-single-line-vertical-right-character-ascii-code-195.html
 
