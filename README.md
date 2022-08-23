@@ -1,3 +1,5 @@
+# Empty the codes.txt and myascii.txt before running python file. <No requirements needed for python>
+
 # unicodeToConsole
 Converting unicode character to a c++ code e.g cout &lt;&lt; char(219).
 
