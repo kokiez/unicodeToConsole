@@ -29,7 +29,6 @@ If you could fork this project and add all the ascii codes, that would help a to
 Thanks
 
 ## EXAMPLE C++ EDIT:
->HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 >
 >int main() {
 >
