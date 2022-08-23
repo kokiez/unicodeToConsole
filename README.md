@@ -21,7 +21,6 @@ Thanks
 
 int main() {
 
-
 	SetConsoleCP(2588);
   
 	SetConsoleOutputCP(2588);
