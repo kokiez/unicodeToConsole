@@ -15,3 +15,11 @@ If you didnt understand anything, hit me up. Create an issue.
 If you could fork this project and add all the ascii codes, that would help a ton of people.
 
 Thanks
+
+## EXAMPLE C++ EDIT:
+`HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+int main() {
+	SetConsoleCP(2588);
+	SetConsoleOutputCP(2588);
+	std::cout << (char)223;  
+  }`
