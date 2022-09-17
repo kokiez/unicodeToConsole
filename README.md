@@ -32,9 +32,9 @@ Thanks
 >
 >int main() {
 >
->	SetConsoleCP(2588);
+>	SetConsoleCP(258);
 >	
->	SetConsoleOutputCP(2588);
+>	SetConsoleOutputCP(258);
 >	
 >	std::cout << (char)223;
 >	
