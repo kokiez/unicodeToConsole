@@ -24,8 +24,6 @@ https://theasciicode.com.ar/extended-ascii-code/box-drawings-single-line-vertica
 
 If you didnt understand anything, hit me up. Create an issue. 
 
-If you could fork this project and add all the ascii codes, that would help a ton of people.
-
 Thanks
 
 ## EXAMPLE C++ EDIT:
