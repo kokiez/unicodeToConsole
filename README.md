@@ -24,7 +24,7 @@ https://theasciicode.com.ar/extended-ascii-code/box-drawings-single-line-vertica
 
 If you didnt understand anything, hit me up. Create an issue. 
 
-Thanks
+
 
 ## EXAMPLE C++ EDIT:
 >
